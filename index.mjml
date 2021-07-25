@@ -1,0 +1,128 @@
+<mjml>
+    <mj-head>
+        <mj-title>Order #6500 confirmed</mj-title>
+        <mj-attributes>
+            <mj-text font-family="Arial, Helvetica, sans-serif;" color= "#13433D"/>
+            <mj-image padding="0px"/>
+            <mj-section padding="0px" background-color="#EDF9F8"/>
+            <mj-button align="center" border-radius="50px" background-color="#13433D" text-transform="uppercase" font-size="12px" font-family="Arial, Helvetica, sans-serif;" color="#ffffff" text-decoration="none" border-radius="50px" letter-spacing="1px" padding-top="50px" padding-bottom="10px" padding-left="50px" padding-right="50px" border="1px solid #13433d">
+        </mj-attributes>
+    </mj-head>
+
+    <mj-body background-color="#e3e3e3">
+    <!-- logo section -->
+        <mj-section>
+            <mj-column>
+                <mj-image src="https://i.imgur.com/LM2K3cg.png" alt="logo" />
+            </mj-column>
+        </mj-section>
+
+    <!-- order received section -->
+        <mj-section>
+            <mj-column>
+                <mj-image src="https://i.imgur.com/iuATGk3.png" alt="order received" />
+            </mj-column>
+        </mj-section>
+
+    <!-- order number -->
+        <mj-section>
+            <mj-column>
+                <mj-text font-size="20px" font-family="Arial, Helvetica, sans-serif" color="#13433D" padding-top="20px" align="center">
+                    ORDER #6500
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+    <!-- customer text -->
+        <mj-section>
+            <mj-column>
+                <mj-text>
+                    <h1 font-size="20px" padding-bottom="30px" font-family="Arial, Helvetica, sans-serif" color="#13433D" letter-spacing="1px" align="center">Hi Smiles Davis, we got your order!<br>We can't wait to send you OLIPOP.</h1>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+    <!-- divider -->
+        <mj-section>
+            <mj-column>
+                <mj-divider  />
+            </mj-column>
+        </mj-section>
+
+    <!-- variety pack total -->
+        <mj-section css-class="variety-pack">
+            <mj-column padding="20px">
+                <mj-text>
+                    <img src="https://i.imgur.com/ISpryEN.png" width="80px" style="display:"block;"">
+                </mj-text>
+            </mj-column>
+            <mj-column padding-top="10px">
+                <mj-text font-size="14px">
+                    <p><b>Variety 12 Pack Sampler</b><br>1 Count</p>
+                </mj-text>
+            </mj-column>
+            <mj-column padding="20px">
+                <mj-text font-size="14px">
+                    <p>x1</p>
+                </mj-text>
+            </mj-column>
+            <mj-column padding="20px">
+                <mj-text font-size="14px">
+                    <p>$41.99</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+    <!-- divider -->
+        <mj-section>
+            <mj-column>
+                <mj-divider  />
+            </mj-column>
+        </mj-section>
+
+    <!-- totals section -->
+        <mj-section css-class="totals" padding-left="20px" padding-right="40px">
+            <mj-column>
+                <mj-text padding="0px">
+                    <p style="font-size: 18px; margin-bottom: 5px; font-family: Arial, Helvetica, sans-serif; color: #13433D;" align="right">
+                        <em>Subtotal $37.80</em>
+                    </p>
+                </mj-text>
+                <mj-text padding="0px">
+                    <p style="font-size: 18px; margin-bottom: 5px; font-family: Arial, Helvetica, sans-serif; color: #13433D;" align="right">
+                        <em>Shipping $0.00</em>
+                    </p>
+                </mj-text>
+                <mj-text padding="0px">
+                    <p style="font-size: 18px; margin-bottom: 5px; font-family: Arial, Helvetica, sans-serif; color: #13433D;" align="right">
+                        <em>Taxes $0.00</em>
+                    </p>
+                </mj-text>
+                <mj-text padding="0px">
+                    <p style="font-size: 18px; margin-bottom: 5px; font-family: Arial, Helvetica, sans-serif; color: #13433D;" align="right">
+                        <em>Total $37.80</em>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+    <!-- review order button -->
+        <mj-section>
+            <mj-column>
+                <mj-button href="https://drinkolipop.com/products/variety-12-pack">
+                    Review Order
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+    <!-- shipment email reminder -->
+        <mj-section>
+            <mj-column>
+                <mj-text>
+                    <h1 style="font-size: 20px; padding-bottom: 80px; font-family: Arial, Helvetica, sans-serif; color: #13433D; letter-spacing: 1px;" align="center">Stay tuned for a<br>shipment email.</h1>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+    </mj-body>
+</mjml>
